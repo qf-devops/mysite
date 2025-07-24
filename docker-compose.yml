@@ -2,3 +2,4 @@ services:
   web:
     image: ubuntu
   redis:
+    immage: redis
