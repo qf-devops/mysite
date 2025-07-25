@@ -5,4 +5,3 @@ services:
   redis:
     immage: redis
     port: 6580
-    network: mynw
