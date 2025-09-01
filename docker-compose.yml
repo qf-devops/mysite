@@ -1,0 +1,7 @@
+services:
+  web:
+    image: ubuntu
+    port: 8080
+  redis:
+    immage: redis
+    port: 6580
